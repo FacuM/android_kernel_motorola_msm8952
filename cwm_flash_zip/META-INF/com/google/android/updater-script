@@ -2,7 +2,7 @@ ui_print("  __                               ");
 ui_print(" (_   _  ._ _   _   /\ _|_ |_  |/  ");
 ui_print(" __) (_) | | | (/_ /--\ |_ | | |\  ");
 ui_print("                                   ");
-ui_print("            v1.00exp               ");
+ui_print("            v1.01exp               ");
 ui_print("                                   ");
 ui_print("=> It's possible thanks to: ");
 ui_print("- Squid2");
